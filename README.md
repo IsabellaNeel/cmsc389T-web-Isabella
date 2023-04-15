@@ -18,6 +18,6 @@ Rose quartz: #B2A3B5
 
 Changed the border radius of the profile picture to be 50% in order to make the image circular 
 
-##Links
+## Links
 
 https://isabellaneel.github.io/cmsc389T-web-Isabella/
