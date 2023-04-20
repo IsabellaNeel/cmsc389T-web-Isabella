@@ -7,11 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: testing
-        uses: appleboy/ssh-actio@mater
+        uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
+              cd /pub/ineel/
               git clone git@github.com:IsabellaNeel/cmsc389T-web-Isabella.git
