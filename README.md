@@ -22,4 +22,4 @@ Changed the border radius of the profile picture to be 50% in order to make the 
 
 https://isabellaneel.github.io/cmsc389T-web-Isabella/
 
-https://terpconnect.umd.edu/~ineel/index.html
+https://terpconnect.umd.edu/~ineel/cmsc389T-web-Isabella/
