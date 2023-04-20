@@ -34,7 +34,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: /C:/Users/Isabella/Desktop/School/Semester 8/CMSC389T/cmsc389T-web-Isabella
+      device: /Users/Isabella/Desktop/School/Semester 8/CMSC389T/cmsc389T-web-Isabella
       o: bind
 
 networks:
